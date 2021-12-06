@@ -1,8 +1,10 @@
 ### Hi there 👋
-#### 我的html\css项目参见：
-#### 我的JavaScript项目参见：
-#### 我的React项目参见：
-### 目前正在学习：
+### 目前正在学习前端课程，并投递前端工程师的工作。
+#### html\css项目参见：https://github.com/ajiang13260/ajiang13260.github.io
+#### JavaScript项目参见：
+#### React项目参见：https://github.com/ajiang13260/cocktail-list
+#### node.js项目参见：https://github.com/ajiang13260/Newsletter-Signup
+### 正在学习：
 #### 1 百度前端项目：https://github.com/baidu-ife/ife/tree/0e2cd86a9dfc0938df3aa3a1c1fd40788c29665d/2015_spring/task
 #### 2 JavaScript课程：https://www.udemy.com/course-dashboard-redirect/?course_id=851712
 #### 3 React课程：https://www.udemy.com/course-dashboard-redirect/?course_id=2018828
