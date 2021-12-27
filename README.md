@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 目前正在学习前端课程，并投递前端工程师的工作。
 #### html\css项目参见：https://github.com/ajiang13260/ajiang13260.github.io
-#### JavaScript项目参见：
 #### React项目参见：https://github.com/ajiang13260/cocktail-list
 #### node.js项目参见：https://github.com/ajiang13260/Newsletter-Signup
 ### 正在学习：
