@@ -1,11 +1,12 @@
 ### Hi there 👋
 ### 目前正在学习前端课程，并投递前端工程师的工作。
-### 项目展示：
+### Currently taking front-end courses and posting a job as a front-end engineer.
+### 项目展示 Project display：
 #### React项目（鸡尾酒搜索）：[GitHub链接](https://github.com/ajiang13260/cocktail-list) [Netlify部署链接](https://goofy-jang-bbc7e1.netlify.app/)
 #### Javascript项目（菜谱展示）：[GitHub链接](https://github.com/ajiang13260/forkify_app) [Netlify部署链接](https://objective-roentgen-b63d05.netlify.app/)
 #### 响应式布局项目（公司主页）：[GitHub链接](https://github.com/ajiang13260/Omnifood-Desktop) [Netlify部署链接](https://musing-franklin-8037a5.netlify.app/)
 #### nodeJS项目（注册登录）：[GitHub链接](https://github.com/ajiang13260/Newsletter-Signup)  [Heroku部署链接](https://safe-cove-29736.herokuapp.com/) 
-### 正在学习：
+### 正在学习 Currently learning：
 #### 1 React课程：[Udemy课程链接](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 #### 2 《你不知道的JavaScript》
 ### 暂时搁置：
