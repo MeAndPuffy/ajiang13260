@@ -16,7 +16,7 @@
 ### 后续学习安排：
 #### 1 Node.js课程：[Udemy课程链接](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 #### 2 CSS进阶：[Udemy课程链接](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8312878)
-#### 3 H5和小程序,vue,typescript...
+#### 3 H5和小程序，React Native，Vue，Typescript...
 ### 已完成学习：
 #### 1 前端通识课程：[Udemy课程链接](https://www.udemy.com/course-dashboard-redirect/?course_id=1565838)
 #### 2 Head First HTML与CSS 第2版
