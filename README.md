@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 目前正在学习前端课程，并投递前端工程师的工作。
-### Currently taking front-end courses and posting a job as a front-end engineer.
+### 前端工程师，正在持续学习。
+### Learing as a Front-end engineer.
 ### 项目展示 Project display：
 #### React项目（鸡尾酒搜索）：[GitHub链接](https://github.com/ajiang13260/cocktail-list) [Netlify部署链接](https://goofy-jang-bbc7e1.netlify.app/)
 #### Javascript项目（菜谱展示）：[GitHub链接](https://github.com/ajiang13260/forkify_app) [Netlify部署链接](https://objective-roentgen-b63d05.netlify.app/)
